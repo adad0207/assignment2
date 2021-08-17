@@ -1,6 +1,7 @@
 ○ Rest란?
 - HTTP URI(Uniform Resource Identifier)를 통해 자원(Resource)을 명시하고, HTTP Method를 통해 해당 자원에 대한 CRUD Operation를 적용하는 것을 의미합니다.
 - HTTP Method는 다음과 같습니다.
+
 ![image](https://user-images.githubusercontent.com/77110648/129701143-5e1af0d2-dba5-4536-9963-f34b8af43a44.png)
 
 
@@ -15,6 +16,7 @@
 
 ○ Rest API란?
 - Rest의 원리를 따르는 API를 의미합니다.
+
 ![image](https://user-images.githubusercontent.com/77110648/129661029-2bcdda20-724e-4ace-bd1f-ee0b55294134.png)
 
 -이처럼 요청과정에서 method를 사용하고 url을 입력해 응답으로 api를 받을 수 있습니다.
