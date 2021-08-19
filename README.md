@@ -19,4 +19,4 @@
 
 ![image](https://user-images.githubusercontent.com/77110648/129661029-2bcdda20-724e-4ace-bd1f-ee0b55294134.png)
 
--이처럼 요청과정에서 method를 사용하고 url을 입력해 응답으로 api를 받을 수 있습니다.
+-이처럼 요청과정에서 method를 사용하고 url을 입력해 응답을 받을 수 있습니다.
